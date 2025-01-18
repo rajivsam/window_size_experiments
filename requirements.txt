@@ -1,0 +1,7 @@
+notebook
+ipython
+pyyaml
+matplotlib
+pandas
+stumpy
+plotly
